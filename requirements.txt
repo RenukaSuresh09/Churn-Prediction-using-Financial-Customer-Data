@@ -3,4 +3,4 @@ joblib
 scikit-learn
 waitress
 numpy
-
+gunicorn
